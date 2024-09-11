@@ -1,0 +1,346 @@
+.nav-own{
+    margin-left: 600px !important;
+    font-family: "PT Serif";
+}
+.carousel-img{
+    height: 50% !important;
+    size: cover;
+}
+.tractor-icon{
+    width: 30px ;
+}
+.heading-icon-1{
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    color: #116530;
+}
+.heading-icon-2{
+    font-size: 13px;
+    padding-bottom:20px;
+    color: #116530;
+}
+.logo{
+    height:40px;
+}
+.carousel-heading{
+    font-size: 56px;
+    font-family: "marcellus";
+}
+.carousel-card{
+    margin-bottom: 300px;
+
+}
+.carousel-img{
+    filter:brightness(0.6);
+}
+.services-heading{
+    font-family:"quicksand";
+    text-align: center;
+    color: #116530;
+    font-size: 20px;
+    padding-top: 30px;
+}
+.service-card{
+    border: 1px solid;
+    border-color: rgb(219, 207, 207);
+}
+.services-paragraph{
+    font-family:"verdana";
+    text-align: center;
+    font-size: 26px;
+}
+.services-icon{
+    height: 60px;
+    width: 60px;
+}
+.service-badge{
+    margin-left: 280px;
+    margin-top: -10px;
+    color:rgb(219, 207, 207); 
+    position: absolute;
+}
+
+.choose-container{
+    background-color: #116530;
+    height: 130vh;
+}
+.choose-img{
+    position: absolute;
+    margin-top: -50px;
+    padding-left: 90px;
+}
+.choose-heading{
+    padding-top: 50px;
+    font-family: "serif";
+    font-size: 28px;
+    color: #6ae0b7;
+    padding-left: 370px;
+}
+.choose-sub-para{
+    font-family: "Marcellus";
+    font-size: 40px;
+    color:#ffffff;
+    padding-left: 370px;
+}
+.choose-para{
+    padding-top: 15px;
+    font-family: "roboto";
+    font-size: 22px;
+    color: #6ae0b7;
+    padding-left: 370px;
+}
+.choose-icon{
+    height: 40px;
+    width: 40px;
+    margin-left: 380px;
+    margin-top: 45px;
+}
+.choose-icon-para-1{
+    font-size: 20px;
+    font-family: "Verdana";
+    color:#ffffff;
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-left: -140px;
+}
+.choose-icon-para-2{
+    font-size: 20px;
+    font-family: "Verdana";
+    color: #6ae0b7;
+    margin-left: -140px;
+    margin-top: -18px;
+}
+
+.choose-sub-icon{
+    height: 40px;
+    width: 40px;
+    margin-left: 380px;
+    margin-top: 20px;
+}
+.choose-sub-icon-para-1{
+    font-size: 20px;
+    font-family: "Verdana";
+    color:#ffffff;
+    margin-top: 28px;
+    margin-left: -140px;
+}
+.choose-sub-icon-para-2{
+    font-size: 20px;
+    font-family: "Verdana";
+    color: #6ae0b7;
+    margin-left: -140px;
+    margin-top: -18px;
+}
+.video-sec-heading{
+    font-family: "Marcellus";
+    color: #116530;
+}
+.tick-icon{
+    color: #116530;
+}
+.tick-text{
+    margin-left: 38px;
+    margin-top: -16px;
+    font-family: 'Segoe UI';
+    color: #212529;
+    font-weight: 400;    
+}
+.video-card{
+    padding-top: 150px;
+    margin-top: 20px;
+}
+.video-button{
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    margin-left: 900px;
+    margin-top: -370px;
+    cursor: pointer;
+}
+.video-sec-button{
+    background-color: #116530;
+    color: #ffffff;
+    border-width: 0;
+    border-radius: 8px;
+    width: 150px;
+    padding: 18px;
+    font-family: "verdana";
+}
+.service-2-container{
+    background-color: black;
+    min-height: 80vh;
+}
+.service-2-heading{
+    color: gray;
+    font-family: "marcellus";
+    font-size: 22px;
+    margin-left: 52px;
+}
+.service-2-para{
+    color: #ffffff;
+    font-size: 50px;
+    font-family: "roboto";
+    margin-left: 52px;
+}
+:root {
+    --swiper-theme-color: #116530 !important;
+}
+.img_box img{
+    max-width: 100%;
+}
+.slider_container .container{
+    padding: 0 15px;
+    max-width: 1230px;
+    margin: 0 auto;
+}
+.card_slider{
+    padding: 50px 0;
+}
+.slider-own{
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 130px;
+}   
+.testimonial-container{
+    margin-top: 200px;
+}
+.testimonial-heading{
+    text-align: center;
+    font-family: "verdana";
+    font-size: 18px;
+}
+.testimonial-para{
+    text-align: center;
+    font-family: "marcellus";
+    font-size: 28px;
+    margin: 20px;
+}
+.testimonial-img{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+.testimonial-card-para{
+    font-weight: 500;
+
+}
+.testimonial-name{
+    color: #116530;
+    font-family: "verdana";
+}
+.recentpost-heaading{
+    text-align: center;
+    font-family: "roboto";
+    font-size: 26px;
+    color:rgb(41, 41, 68);
+}
+.recentpost-image{
+    height: 45vh;
+    width: 29vw;
+ 
+}
+.recentpost-card-heading{
+    font-size: 16px;
+    font-family: "marcellus";
+    color: #212529;
+    font-weight: 500;
+}
+.rc-month{
+    background-color: #116530;
+    width: 80px;
+    color: #ffffff;
+    font-size: 11px;
+    padding: 3px;
+    position: absolute;
+    margin-left: 350px;
+    margin-bottom: -1px;
+}
+.user{
+    font-family: "roboto";
+    margin-left: -728px;
+    font-size: 16px;
+}
+.rc-color{
+    color: #989292;
+}
+.subscribe-heading{
+    font-size: 20px;
+    font-family: "verdana";
+}
+.subscribe-para{
+    font-size: 16px;
+    font-family: "verdana"; 
+}
+.subscribe-input{
+    width: 400px;
+    height: 50px;
+    border-color: #116530;
+}
+.subscribe-button{
+    height:50px ;
+    width: 100px;
+    margin-left: -5px;
+    border:1px solid #116530;
+    background-color: #116530;
+    color: #ffffff;
+}
+.footer-container{
+    background-color: #212529;
+    height: 40vh;
+    margin-top: 50px;
+}
+.footer-heading{
+    color:#ffffff;
+    font-family: "verdana";
+    font-size: 22px;
+    padding-top: 40px ;
+    padding-bottom: 40px ;
+}
+.address{
+    color: #ffffff;
+}
+.sub-address{
+    color: #ffffff;
+    margin-left: -40px;
+    font-family: "verdana";
+    padding-top: 40px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.line{
+    height:3px;
+    border-width:0;
+    color:#1fa550;
+    background-color:#1fa550;
+    margin-left: -40px;
+    width: 20px;
+}
+.address-options{
+    color: #ffffffc1;
+    margin-left: -40px;
+    font-size: 14px;
+    margin-bottom:8px;
+}
+.final-footer{
+    background-color: black;
+    height: 15vh;
+}
+.media{
+    background-color: #5e5353c1;
+    padding: 10px;
+    border-radius: 4px;
+    color: #1fa550;
+    
+}
+.up-button{
+    width: 40px;
+    height:40px;
+    border-width: 0;
+    border-radius: 9px;
+    background-color: #116530;
+    margin-top: -20px;
+    margin-right: -30px;
+    margin-bottom: 2px;
+}
